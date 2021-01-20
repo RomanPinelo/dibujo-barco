@@ -1,6 +1,6 @@
 # Dibujo de un barco
 
-En esta práctica se dibujo un barco utilizando los conceptos de posición absoluta y relativa de CSS. Se sacó de la página: https://cssbattle.dev/
+En esta práctica se dibujó un barco utilizando los conceptos de posición absoluta y relativa de CSS. El reto se sacó de la página: https://cssbattle.dev/
 
 Dejó imagen del resultado.
 
@@ -8,3 +8,4 @@ Dejó imagen del resultado.
 
 Puedes ver el resultado en:
 
+https://romanpinelo.github.io/dibujo-barco/
